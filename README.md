@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Malnutrition application](https://github.com/PuventhiranGaneson/Malnutrition-App)
 
-- 🌱 I’m currently learning **lm models, Unity and Unreal Engine**
+- 🌱 I’m currently learning **AI implementation, Unity and Unreal Engine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
